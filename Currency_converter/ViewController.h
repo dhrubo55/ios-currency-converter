@@ -20,7 +20,7 @@
 
 @property (strong, nonatomic) IBOutlet UILabel *india_currency_show;
 
-
+-(IBAction)showCurrency;
 
 @end
 
